@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning web development and exploring new programming languages.
 - 🔭 I’m working on various open-source projects and contributing to the developer community.
 - 💬 Ask me about JavaScript, Python, and web development.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [gamerpro270206@gmail.com](gamerpro270206@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
 
 ## 🔧 Technologies & Tools
